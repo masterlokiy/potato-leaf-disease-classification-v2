@@ -319,7 +319,7 @@ def main():
                 """,
                 unsafe_allow_html=True
             )
-            st.image("/assets/2.png", use_container_width=True)
+            st.image("assets/2.png", use_container_width=True)
         except:
             st.markdown(
                 """
