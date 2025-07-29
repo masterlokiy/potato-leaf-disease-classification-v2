@@ -74,5 +74,3 @@ Dataset terdiri dari 3.076 gambar daun kentang yang dikategorikan ke dalam 7 kel
 ## 📄 Lisensi
 
 MIT License — Silakan digunakan untuk pembelajaran, riset, atau pengembangan pertanian digital lebih lanjut.
-
----
