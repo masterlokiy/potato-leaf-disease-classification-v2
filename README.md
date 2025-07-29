@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## ⚙️ Cara Menjalankan Aplikasi
 
 1. **Clone repo**
