@@ -8,8 +8,6 @@
 
 - 🔍 **Deteksi cepat** dari 7 jenis penyakit daun kentang
 - 🧠 **Model akurat** berbasis Vision Transformer (ViT)
-- 🌱 Antarmuka intuitif berbasis web
-- 📤 Upload gambar langsung untuk diagnosis instan
 - 📊 Dirancang untuk petani, peneliti, dan komunitas pertanian
 
 ---
