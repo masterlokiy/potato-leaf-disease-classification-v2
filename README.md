@@ -14,7 +14,7 @@
 
 ## 🧪 Kelas Penyakit yang Didukung
 
-| Label Indonesia | Label Inggris (Opsional) |
+| Label | Labels            |
 | --------------- | ------------------------ |
 | Bakteri         | Bacteria                 |
 | Jamur           | Fungi                    |
