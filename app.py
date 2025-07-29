@@ -202,7 +202,7 @@ def load_vit_model():
     try:
         model = timm.create_model('vit_base_patch16_224_in21k', pretrained=False, num_classes=NUM_CLASSES, drop_rate=0.3)
         model.head = nn.Sequential(nn.LayerNorm(model.head.in_features), nn.Dropout(0.3), nn.Linear(model.head.in_features, NUM_CLASSES))
-        model.load_state_dict(torch.load('/model/MODEL93VIT.pth', map_location=DEVICE))
+        model.load_state_dict(torch.load('model/MODEL93VIT.pth', map_location=DEVICE))
         model.to(DEVICE)
         model.eval()
         return model
