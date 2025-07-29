@@ -39,8 +39,6 @@ git clone https://github.com/username/spudscan.git
 cd spudscan
 ```
 
-````
-
 2. **Install dependensi**
 
 ```bash
