@@ -69,12 +69,6 @@ Dataset terdiri dari 3.076 gambar daun kentang yang dikategorikan ke dalam 7 kel
 
 ---
 
-## 📸 Contoh Prediksi
-
-![Contoh Prediksi](assets/sample_leaf.jpg)
-
----
-
 ## 🧑‍💻 Kontributor
 
 - Ilham C.S. Wibowo – [@masterlokiy](https://github.com/masterlokiy)
@@ -86,4 +80,3 @@ Dataset terdiri dari 3.076 gambar daun kentang yang dikategorikan ke dalam 7 kel
 MIT License — Silakan digunakan untuk pembelajaran, riset, atau pengembangan pertanian digital lebih lanjut.
 
 ---
-````
