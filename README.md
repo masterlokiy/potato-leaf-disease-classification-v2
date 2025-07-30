@@ -31,7 +31,7 @@
 1. **Clone repo**
 
 ```bash
-git clone https://github.com/username/spudscan.git
+git clone https://github.com/masterlokiy/spudscan.git
 cd spudscan
 ```
 
